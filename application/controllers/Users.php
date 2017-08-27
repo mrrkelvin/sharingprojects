@@ -215,7 +215,7 @@
 		}
 
 		public function viewsv(){
-			$data['title'] = 'View Students & Supervisor';
+			$data['title'] = 'View Students & Supervisors';
 			$data['students'] = $this->user_model->get_students();
 			$data['supervisors'] = $this->user_model->get_supervisors();
 

@@ -84,7 +84,7 @@ footer { background-color:#0c1a1e; min-height:240px; font-family: 'Open Sans', s
 <div class="copyright">
   <div class="container">
     <div class="col-md-6">
-      <p>© 2017 - All Rights with Sharing Projects Platforms</p>
+      <p>© 2017 - All Rights with Kelvin2017ofFTMK</p>
     </div>
     <div class="col-md-6">
       <ul class="bottom_ul">
